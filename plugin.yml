@@ -1,0 +1,12 @@
+Example plugin.yml
+name: BTBTestPlugin
+
+#Notice that this doesn't say Main at the end.
+main: BreathTakinglyBinary\BTBTestPlugin\BTBTestPlugin
+
+version: 0.0.1
+api: 3.0.0-ALPHA12
+load: POSTWORLD
+author: WePlayBTB Dev Team
+description: A plugin to demonstrate the expected layout of a BTB Custom Plugin
+website: https://www.weplaybtb.com
